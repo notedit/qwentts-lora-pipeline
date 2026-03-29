@@ -1,2 +1,2 @@
-# qwentts-lora-pipeline
+# tts-lora-pipeline
 
